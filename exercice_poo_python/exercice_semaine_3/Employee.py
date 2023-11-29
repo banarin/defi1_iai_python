@@ -2,7 +2,7 @@
 class Employee:
     ### variable de class
     
-    raise_amount = 4
+    raise_amount = 0.04
     nb_of_emps = 0
     ### constructor ###
     def __init__(self,firstName,lastName,salary):
